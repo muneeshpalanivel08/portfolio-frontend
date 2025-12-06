@@ -17,31 +17,37 @@ export const Projects = () => {
       title: "LOCTOGLOB",
       description: "LocalHost to GlobalHost",
       imgUrl: projImg1,
+      githubUrl: "https://github.com/muneeshpalanivel08/LOCTOGLOB",
     },
     {
       title: "AutoRem",
       description: "Automatic Assignment Reminder using UiPath",
       imgUrl: projImg2,
+      githubUrl: "https://github.com/muneeshpalanivel08/AutoRem",
     },
     {
       title: "AIRA",
       description: "AI Resume Analyzer",
       imgUrl: projImg3,
+      githubUrl: "https://github.com/muneeshpalanivel08/Resume-Analyzer",
     },
     {
       title: "HostelSys",
       description: "Hostel Room Allocation using DevOps",
       imgUrl: projImg4,
+      githubUrl: "https://github.com/muneeshpalanivel08/HostelSyS",
     },
     {
       title: "JF bot",
       description: "Job Finder Bot",
       imgUrl: projImg5,
+      githubUrl: "https://github.com/muneeshpalanivel08/JF-Bot",
     },
     {
       title: "JF reminder",
       description: "Job Finder reminder using Mail",
       imgUrl: projImg6,
+      githubUrl: "https://github.com/muneeshpalanivel08/JMAN-Bot",
     },
   ];
 
@@ -69,12 +75,6 @@ export const Projects = () => {
                           })
                         }
                       </Row>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
